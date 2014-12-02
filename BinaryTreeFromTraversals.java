@@ -1,7 +1,5 @@
 package Random;
 
-import java.util.Arrays;
-
 class TreeNode{
 	char data;
 	TreeNode left,right;
